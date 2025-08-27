@@ -1,30 +1,48 @@
-| Fabricante   | Badge |
-|--------------|-------|
-| Dell         | ![Dell](https://img.shields.io/badge/Dell-007DB8?style=flat&logo=dell&logoColor=white) |
-| Lenovo       | ![Lenovo](https://img.shields.io/badge/Lenovo-E2231A?style=flat&logo=lenovo&logoColor=white) |
-| IBM          | ![IBM](https://img.shields.io/badge/IBM-052FAD?style=flat&logo=ibm&logoColor=white) |
-| HPE          | ![HPE](https://img.shields.io/badge/HPE-00B388?style=flat&logo=hewlettpackardenterprise&logoColor=white) |
-| Microsoft    | ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=flat&logo=microsoft&logoColor=white) |
-| Cisco        | ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white) |
-| Cisco Meraki | ![Cisco Meraki](https://img.shields.io/badge/Cisco_Meraki-1BA0D7?style=flat&logo=cisco&logoColor=white) |
-| Fortinet     | ![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=flat&logo=fortinet&logoColor=white) |
-| Mikrotik     | ![Mikrotik](https://img.shields.io/badge/Mikrotik-293239?style=flat&logo=mikrotik&logoColor=white) |
-| VMware       | ![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white) |
-| VMware ESXi  | ![VMware ESXi](https://img.shields.io/badge/VMware_ESXi-607078?style=flat&logo=vmware&logoColor=white) |
-| Red Hat      | ![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=flat&logo=redhat&logoColor=white) |
-| Proxmox      | ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white) |
-| TrueNAS      | ![TrueNAS](https://img.shields.io/badge/TrueNAS-0095D5?style=flat&logo=truenas&logoColor=white) |
-
-
-| Ferramenta      | Badge |
-|-----------------|-------|
-| Datadog         | ![Datadog](https://img.shields.io/badge/Datadog-6F43E2?style=flat&logo=datadog&logoColor=white) |
-| Dynatrace       | ![Dynatrace](https://img.shields.io/badge/Dynatrace-6C1D99?style=flat&logo=dynatrace&logoColor=white) |
-| New Relic       | ![New Relic](https://img.shields.io/badge/New_Relic-0080FF?style=flat&logo=newrelic&logoColor=white) |
-| Zabbix          | ![Zabbix](https://img.shields.io/badge/Zabbix-EE0000?style=flat&logo=Zabbix&logoColor=white) |
-| Prometheus      | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white) |
-| OpenTelemetry   | ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-2F7DF6?style=flat&logo=opentelemetry&logoColor=white) |
-| Grafana         | ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white) |
-
+| Categoria        | Item                   | Badge |
+|-----------------|-----------------------|-------|
+| Infra/TI        | Dell                  | ![Dell](https://img.shields.io/badge/Dell-007DB8?style=flat&logo=dell&logoColor=white) |
+| Infra/TI        | Lenovo                | ![Lenovo](https://img.shields.io/badge/Lenovo-E2231A?style=flat&logo=lenovo&logoColor=white) |
+| Infra/TI        | IBM                   | ![IBM](https://img.shields.io/badge/IBM-052FAD?style=flat&logo=ibm&logoColor=white) |
+| Infra/TI        | HPE                   | ![HPE](https://img.shields.io/badge/HPE-00B388?style=flat&logo=hewlettpackardenterprise&logoColor=white) |
+| Infra/TI        | Microsoft             | ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=flat&logo=microsoft&logoColor=white) |
+| Infra/TI        | Cisco                 | ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white) |
+| Infra/TI        | Cisco Meraki          | ![Cisco Meraki](https://img.shields.io/badge/Cisco_Meraki-1BA0D7?style=flat&logo=cisco&logoColor=white) |
+| Infra/TI        | Fortinet              | ![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=flat&logo=fortinet&logoColor=white) |
+| Infra/TI        | Mikrotik              | ![Mikrotik](https://img.shields.io/badge/Mikrotik-293239?style=flat&logo=mikrotik&logoColor=white) |
+| Infra/TI        | VMware                | ![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white) |
+| Infra/TI        | VMware ESXi           | ![VMware ESXi](https://img.shields.io/badge/VMware_ESXi-607078?style=flat&logo=vmware&logoColor=white) |
+| Infra/TI        | Red Hat               | ![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=flat&logo=redhat&logoColor=white) |
+| Infra/TI        | Proxmox               | ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white) |
+| Infra/TI        | TrueNAS               | ![TrueNAS](https://img.shields.io/badge/TrueNAS-0095D5?style=flat&logo=truenas&logoColor=white) |
+| Observabilidade | Datadog               | ![Datadog](https://img.shields.io/badge/Datadog-6F43E2?style=flat&logo=datadog&logoColor=white) |
+| Observabilidade | Dynatrace             | ![Dynatrace](https://img.shields.io/badge/Dynatrace-6C1D99?style=flat&logo=dynatrace&logoColor=white) |
+| Observabilidade | New Relic             | ![New Relic](https://img.shields.io/badge/New_Relic-0080FF?style=flat&logo=newrelic&logoColor=white) |
+| Observabilidade | Zabbix                | ![Zabbix](https://img.shields.io/badge/Zabbix-EE0000?style=flat&logo=Zabbix&logoColor=white) |
+| Observabilidade | Prometheus            | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white) |
+| Observabilidade | OpenTelemetry         | ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-2F7DF6?style=flat&logo=opentelemetry&logoColor=white) |
+| Observabilidade | Grafana               | ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white) |
+| DevOps          | Ansible               | ![Ansible](https://img.shields.io/badge/Ansible-000000?style=flat&logo=ansible&logoColor=white) |
+| DevOps          | Helm                  | ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white) |
+| DevOps          | Puppet                | ![Puppet](https://img.shields.io/badge/Puppet-FFAE1A?style=flat&logo=puppet&logoColor=white) |
+| DevOps          | Chef                  | ![Chef](https://img.shields.io/badge/Chef-F09820?style=flat&logo=chef&logoColor=white) |
+| DevOps          | SaltStack             | ![SaltStack](https://img.shields.io/badge/SaltStack-00B2A9?style=flat&logo=saltstack&logoColor=white) |
+| Sistema Operacional | Windows Server 2008  | ![Windows Server 2008](https://img.shields.io/badge/Windows_Server_2008-0078D6?style=flat&logo=windows&logoColor=white) |
+| Sistema Operacional | Windows Server 2008 R2 | ![Windows Server 2008 R2](https://img.shields.io/badge/Windows_Server_2008_R2-0078D6?style=flat&logo=windows&logoColor=white) |
+| Sistema Operacional | Windows Server 2012  | ![Windows Server 2012](https://img.shields.io/badge/Windows_Server_2012-0078D6?style=flat&logo=windows&logoColor=white) |
+| Sistema Operacional | Windows Server 2012 R2 | ![Windows Server 2012 R2](https://img.shields.io/badge/Windows_Server_2012_R2-0078D6?style=flat&logo=windows&logoColor=white) |
+| Sistema Operacional | Windows Server 2016  | ![Windows Server 2016](https://img.shields.io/badge/Windows_Server_2016-0078D6?style=flat&logo=windows&logoColor=white) |
+| Sistema Operacional | Windows Server 2019  | ![Windows Server 2019](https://img.shields.io/badge/Windows_Server_2019-0078D6?style=flat&logo=windows&logoColor=white) |
+| Sistema Operacional | Windows Server 2022  | ![Windows Server 2022](https://img.shields.io/badge/Windows_Server_2022-0078D6?style=flat&logo=windows&logoColor=white) |
+| Sistema Operacional | Windows Server 2025  | ![Windows Server 2025](https://img.shields.io/badge/Windows_Server_2025-0078D6?style=flat&logo=windows&logoColor=white) |
+| Sistema Operacional | Ubuntu 22.04         | ![Ubuntu](https://img.shields.io/badge/Ubuntu-CE4630?style=flat&logo=ubuntu&logoColor=white) |
+| Sistema Operacional | Ubuntu 20.04         | ![Ubuntu](https://img.shields.io/badge/Ubuntu-CE4630?style=flat&logo=ubuntu&logoColor=white) |
+| Sistema Operacional | Debian               | ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white) |
+| Sistema Operacional | CentOS 7             | ![CentOS](https://img.shields.io/badge/CentOS-262577?style=flat&logo=centos&logoColor=white) |
+| Sistema Operacional | CentOS 8             | ![CentOS](https://img.shields.io/badge/CentOS-262577?style=flat&logo=centos&logoColor=white) |
+| Sistema Operacional | Rocky Linux          | ![Rocky Linux](https://img.shields.io/badge/Rocky_Linux-1C62B9?style=flat&logo=rockylinux&logoColor=white) |
+| Sistema Operacional | AlmaLinux            | ![AlmaLinux](https://img.shields.io/badge/AlmaLinux-002F5F?style=flat&logo=almalinux&logoColor=white) |
+| Sistema Operacional | Red Hat Enterprise   | ![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=flat&logo=redhat&logoColor=white) |
+| Sistema Operacional | SUSE                 | ![SUSE](https://img.shields.io/badge/SUSE-73BA25?style=flat&logo=suse&logoColor=white) |
+| Sistema Operacional | Fedora               | ![Fedora](https://img.shields.io/badge/Fedora-294172?style=flat&logo=fedora&logoColor=white) |
 
 https://github.com/inttter/md-badges?tab=readme-ov-file#%EF%B8%8F-database
